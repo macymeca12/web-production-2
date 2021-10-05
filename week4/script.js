@@ -104,24 +104,24 @@ function selectVideo() {
       break;
   }
 }
-fuction selectVideo2(){
-let selectVideo2 = O('value-text')
-
-switch(preference) {
-  case ("1"):
-    media.src = "videos/snl.mp4"
-    break;
-  case ("2"):
-    media.src = "videos/doggycrime.mp4"
-    break;
-  case ("3"):
-      media.src = "videos/adv.mp4"
-      break;
-  case ("4"):
-        media.src = "videos/mega_dolphin.mp4"
-        break;
-  default:
-    break;
-}
-
-}
+// fuction selectVideo2(){
+// let selectVideo2 = O('value-text')
+//
+// switch(preference) {
+//   case ("1"):
+//     media.src = "videos/snl.mp4"
+//     break;
+//   case ("2"):
+//     media.src = "videos/doggycrime.mp4"
+//     break;
+//   case ("3"):
+//       media.src = "videos/adv.mp4"
+//       break;
+//   case ("4"):
+//         media.src = "videos/mega_dolphin.mp4"
+//         break;
+//   default:
+//     break;
+// }
+//
+// }
