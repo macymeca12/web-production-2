@@ -66,3 +66,13 @@ function pageLoaded(){
 
 
 window.addEventListener("load", pageLoaded);
+
+
+
+// links
+//https://github.com/zuritor/jikanjs/tree/6a11bcf1d07dfc046e56ddf3ed94adc5db6ac822#installation
+//https://www.youtube.com/watch?v=0edUd9m3tVU&t=377s
+//https://www.youtube.com/watch?v=AI5lsNeVyO8&t=758s
+//https://uicookies.com/html-search-box/
+//https://coolors.co
+//https://uicookies.com/html-search-box/
